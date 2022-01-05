@@ -820,7 +820,7 @@ int main()
                                 {
                                     do
                                     {
-                                        cout << "\n\t\tGuess between 1-5" << endl;
+                                        cout << "\n\t\tGuess a number between 1-5" << endl;
                                         
                                         cout << "\nEnter your guess: ";
                                         cin >> user_guess;
@@ -916,7 +916,7 @@ int main()
                                 {
                                     do
                                     {
-                                        cout << "\n\t\tGuess between 1-20" << endl;
+                                        cout << "\n\t\tGuess a number between 1-20" << endl;
                                         
                                         cout << "\nEnter your guess: ";
                                         cin >> user_guess;
@@ -1012,7 +1012,7 @@ int main()
                                 {
                                     do
                                     {
-                                        cout << "\n\t\tGuess between 1-50" << endl;
+                                        cout << "\n\t\tGuess a number between 1-50" << endl;
                                         
                                         cout << "\nEnter your guess: ";
                                         cin >> user_guess;
